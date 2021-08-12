@@ -1,0 +1,94 @@
+a{
+    text-decoration: none;
+}
+body{
+    background-image : url('../img/Desktop.png');
+
+}
+.nav{
+    background-color:  #B9F3E7;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+}
+.nav img{
+    width: 50px;
+}
+.nav a {
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+ }
+ 
+.tampil img{
+     width: 20px;
+ }
+.container{
+    background: url('/admin/assets/img/Desktop.png');
+    width: 90%;
+    margin: 0 auto;
+    box-shadow: 0 3px 5px #ddd;
+}
+.container::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.card{
+    width: 90%;
+    margin: 50px auto;
+    padding: 10px;
+}
+.judul{
+    width: 100%;
+    margin: 0 auto;
+    background-color:#D88BE4;
+    text-align: center;
+}
+.card h3{
+    padding: 20px;
+    font-size: 30px;
+}
+.tambah{
+    width: 20%;
+    background-color: #B9F3E7;
+    margin: 0;
+    text-align: center;
+}
+.tambah a{
+
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #D88BE4;
+ }
+ 
+ th,
+ td {
+    text-align: center;
+    padding: 16px;
+ }
+ th {
+     background-color:#D88BE4;
+     color: white;
+    
+ }
+.navtambah{
+    background-color:#B9F3E7;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    text-align: center;
+}
+.navtambah img{
+    width: 40px;
+}
+table img{
+    width: 50px;
+}

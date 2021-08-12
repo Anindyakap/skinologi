@@ -1,0 +1,35 @@
+body {
+    background-image: url(../img/Skinology.png);
+}
+
+.container {
+    margin-top: 100px;
+    color: aliceblue;
+}
+
+.btn {
+    margin-top: 25px;
+    color: white;
+    background-color: #CA85DB !important;
+}
+
+.btnlogin {
+    color: white;
+}
+
+#logo {
+    position: absolute;
+    top: 1em;
+    left: 0;
+}
+
+#logo h1 {
+    color: #9C39AE;
+}
+
+#logo a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #89249B;
+}
+

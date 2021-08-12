@@ -1,0 +1,14 @@
+.navbar-brand {
+    top: 1em;
+    left: 0;
+    color: #9C39AE;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #89249B;
+}
+
+.btn {
+    margin-top: 25px;
+    color: white;
+    background-color: #CA85DB !important;
+}
